@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DLPageView-swift_Example' do
+  pod 'DLPageView-swift', :path => '../'
+
+  target 'DLPageView-swift_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
