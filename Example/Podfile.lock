@@ -1,23 +1,16 @@
 PODS:
   - DLPageView-swift (0.1.0)
-  - FBSnapshotTestCase (2.1.4):
-    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
-  - FBSnapshotTestCase/Core (2.1.4)
-  - FBSnapshotTestCase/SwiftSupport (2.1.4):
-    - FBSnapshotTestCase/Core
 
 DEPENDENCIES:
   - DLPageView-swift (from `../`)
-  - FBSnapshotTestCase (~> 2.1.4)
 
 EXTERNAL SOURCES:
   DLPageView-swift:
     :path: ../
 
 SPEC CHECKSUMS:
-  DLPageView-swift: 8f50124a12e802c7f735bc2635c07ff625c7facc
-  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  DLPageView-swift: 22b264dd2e7a3a5caf5ccb0af13473278dca0795
 
-PODFILE CHECKSUM: 63bea4ff2c30c5075edbbf4a9206cc3d1293af4d
+PODFILE CHECKSUM: a4b64727274c57fabf1162e438c0a8a92a85b727
 
 COCOAPODS: 1.4.0.beta.1

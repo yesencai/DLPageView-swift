@@ -1,6 +1,5 @@
 import UIKit
 import XCTest
-import DLPageView-swift
 
 class Tests: XCTestCase {
     
