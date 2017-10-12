@@ -1,0 +1,6 @@
+framework module DLPageView_swift {
+  umbrella header "DLPageView-swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

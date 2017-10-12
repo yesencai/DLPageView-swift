@@ -1,0 +1,6 @@
+framework module Pods_DLPageView_swift_Example {
+  umbrella header "Pods-DLPageView-swift_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
